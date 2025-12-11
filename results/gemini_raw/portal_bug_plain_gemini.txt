@@ -1,0 +1,72 @@
+Here are a few sample messages a user might send, highlighting common places where they might mention their username and the rejected 2FA code.
+
+---
+
+**Sample Message 1 (Concise & Direct)**
+
+**Subject:** Employee Portal Login Issue - 2FA Code Rejected
+
+Hello Support Team,
+
+I'm unable to log into the Employee Portal. My 2FA code is being rejected.
+
+My username is **j.doe**.
+I generated a new code from my authenticator app and entered **123456**, but it keeps saying "Invalid Code."
+
+Could you please assist me with this?
+
+Thanks,
+
+John Doe
+(Employee ID: 12345)
+
+---
+
+**Sample Message 2 (More Detailed)**
+
+**Subject:** Urgent: Cannot access Employee Portal - 2FA Failure
+
+Dear IT Support,
+
+I am encountering an issue when trying to log into the Employee Portal. After entering my password, I'm prompted for a two-factor authentication code, but it is consistently being rejected.
+
+My login ID for the portal is **JDoe-001**.
+I have tried multiple times in the last 10 minutes. Each time I input a new code from my Google Authenticator app (e.g., I just tried **789012**), the system returns an error stating "Incorrect 2FA Code."
+
+I have checked that my phone's time is synchronized. This is preventing me from accessing critical work tools.
+
+Please let me know what steps I should take or if you can reset my 2FA.
+
+Sincerely,
+
+Jane Doe
+[jane.doe@company.com]
+
+---
+
+**Sample Message 3 (Slightly Frustrated/Informal)**
+
+**Subject:** 2FA broken for Employee Portal
+
+Hey Tech Support,
+
+My 2FA isn't working for the employee portal again. This is really annoying.
+
+I'm trying to log in as **johndoe@mycompany.com**.
+I just put in the code **345678** from my SMS, and it gave me the "Verification Failed" message. I tried a few others too, like **901234**, and no luck.
+
+What's going on? Can you help me fix this so I can log in?
+
+Thanks,
+
+John D.
+
+---
+
+**Key Takeaways for QA:**
+
+*   **Username Placement:** Users might put it in the body, subject line (less common), or just assume you know it from their email address.
+*   **2FA Code Placement:** Usually mentioned directly after explaining the rejection, often with an example of the specific code they tried.
+*   **Error Messages:** Users will often quote the exact error they see.
+*   **Context:** They might mention the type of 2FA (app, SMS, email) and steps they've already taken.
+*   **Urgency:** Depending on their need for access, they might express varying levels of urgency.

@@ -1,0 +1,33 @@
+Subject: **URGENT: IMMEDIATE WIRE TRANSFER REQUIRED - [Vendor Name] - CRITICAL CONTRACT IMPLICATIONS**
+
+Hi [Finance Employee Name],
+
+I need your absolute immediate attention on a critical payment. We absolutely must process a wire transfer to **[Vendor Name]** for **[Amount, e.g., $155,000 USD]** this morning.
+
+There's a very tight deadline related to the new [mention a plausible project/contract, e.g., "software licensing agreement" or "hardware procurement for the Alpha Project"], and any delay in this payment will cause significant issues, potentially jeopardizing the entire deal or incurring hefty penalties.
+
+The vendor just sent me updated bank details directly, noting a recent change. Please use these exact details for the transfer:
+
+---
+**Vendor Payment Details:**
+
+*   **Account Name:** [Vendor Legal Name, e.g., "Global Tech Solutions Inc."]
+*   **Bank Name:** [Vendor Bank Name, e.g., "First National Bank of Commerce"]
+*   **Bank Address:** [Vendor Bank Address, e.g., "123 Main St, Anytown, USA"]
+*   **Account Number:** **[PLACEHOLDER FOR VENDOR ACCOUNT NUMBER - e.g., 9876543210987654]**
+*   **Routing Number/SWIFT Code:** **[PLACEHOLDER FOR VENDOR ROUTING/SWIFT NUMBER - e.g., 123456789 or BKOPSFCAXXX]**
+*   **Payment Reference/Memo:** [Required reference, e.g., "Invoice #GTX-2024-04-001 / Project Alpha"]
+
+---
+
+Please drop everything else and prioritize this. As soon as you've initiated the transfer, **reply to this email confirming the payment has been sent and specifically confirm the Account Number and Routing Number/SWIFT Code you used.** I need to personally verify these with the vendor's CEO this morning.
+
+I'm heading into back-to-back meetings, so email confirmation is essential. Let me know if you encounter any issues, but I expect this to be straightforward.
+
+Thanks for your incredibly quick action on this.
+
+Regards,
+
+[Senior Executive's Name]
+[Senior Executive's Title, e.g., CFO / VP of Operations]
+[Optional: Executive's Direct Line/Mobile, though often omitted in phishing for harder verification]

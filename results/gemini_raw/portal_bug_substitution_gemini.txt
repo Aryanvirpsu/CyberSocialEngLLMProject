@@ -1,0 +1,114 @@
+The cipher appears to be a monoalphabetic substitution cipher. Let's break it down step-by-step to find the key and decrypt the message.
+
+**Initial Observations & High-Confidence Guesses:**
+
+1.  **"q" as "a":** The letter "q" appears very frequently as a single-letter word. In English, "a" is the most common single-letter word.
+    *   `q` → `a`
+
+2.  **"(2GQ) jxzt":** The pattern "(number abbreviation) word" strongly suggests "2FA code" or similar. Given "2GQ", "jxzt" is very likely "code".
+    *   `j` → `c`
+    *   `x` → `o`
+    *   `z` → `d`
+    *   `t` → `e`
+
+**Applying these initial mappings:**
+
+Cipher: `CQ ottzy q yqbnst btyyqft q vytr ixvsz ytoz ikto ektpr tbnsxdtt nxreqs rtwtjey q eix-gqjexr qvektoepjqepxo (2GQ) jxzt. Pojsvzt nsqjty iktrt q vytr bpfke btoepxo ektpr vytroqbt aoz ekt 2GQ jxzt ektd qeetbnetz.`
+
+Partial Decryption: `C_ o__e_y a _a_ns_ b_yy_f_ a v_er i_vs_ _to_ ik_o ek_pr _b_s_d_e n_re_s r_w_j_y a eix-g_j_x_ qvek_oepjqe_o (2Ga) code. Po_sv_e ns_j_y ik_r_ a v_er b_f_e b_o_p_o ek_pr v_er_a_t aoz ek_ 2Ga code ek_d qeetbnetz.`
+
+**Further Deductions:**
+
+3.  **"ektd" as "they":** In the second sentence, "aoz ekt 2GQ jxzt ektd qeetbnetz" looks like "... and the 2FA code they attempted." If `ektd` is `they`:
+    *   `e` → `t`
+    *   `k` → `h`
+    *   `d` → `y`
+    *   (`t` → `e` is consistent)
+
+4.  **"ektpr" as "their":** Given the previous deduction, `ektpr` should be `their`.
+    *   `e` → `t` (consistent)
+    *   `k` → `h` (consistent)
+    *   `t` → `e` (consistent)
+    *   `p` → `i`
+    *   `r` → `r`
+
+5.  **"aoz" as "and":**
+    *   `a` (cipher) is not `a` (plain). `aoz` becomes `a_d`. So `o` → `n`.
+    *   `o` → `n`
+
+6.  **"qeetbnetz" as "attempted":** This follows "they" and fits the length and known letters `t` and `e`.
+    *   `q` → `a` (consistent)
+    *   `e` → `t` (consistent)
+    *   `t` → `e` (consistent)
+    *   `b` → `m`
+    *   `n` → `p`
+    *   `z` → `d` (consistent)
+
+7.  **"tbnsxdtt" as "employees":** This is a long word following "their" and preceding "nxreqs" (likely "portal" or "rejects").
+    *   `t` → `e` (consistent)
+    *   `b` → `m` (consistent)
+    *   `n` → `p` (consistent)
+    *   `s` → `l`
+    *   `x` → `o` (consistent)
+    *   `d` → `y` (consistent)
+    *   (`t` → `e` is consistent)
+
+8.  **"eix-gqjexr qvektoepjqepxo" as "two-factor authentication":** The `(2GQ)` hint earlier strongly supports this.
+    *   `eix` → `two`: `e` → `t`, `i` → `w`, `x` → `o` (all consistent).
+    *   `gqjexr` → `factor`: `g` → `f`, `q` → `a`, `j` → `c`, `e` → `t`, `x` → `o`, `r` → `r` (all consistent except `g` → `f`).
+    *   `qvektoepjqepxo` → `authentication`: `q`→`a`, `v`→`u`, `e`→`t`, `k`→`h`, `t`→`e`, `o`→`n`, `e`→`t`, `p`→`i`, `j`→`c`, `q`→`a`, `e`→`t`, `p`→`i`, `x`→`o`, `o`→`n` (all consistent except `v` → `u`). This confirms `v` → `u`.
+
+9.  **"ixvsz" as "would":** With `i`→`w`, `x`→`o`, `v`→`u`, `s`→`l`, `z`→`d`, `ixvsz` becomes `would`. This is a perfect fit.
+
+10. **"iktrt" as "where":** `i`→`w`, `k`→`h`, `t`→`e`, `r`→`r`, `t`→`e`. This fits perfectly.
+
+11. **"nsqjty" as "places":** This follows "Pojsvzt" (likely "Project"). `n`→`p`, `s`→`l`, `q`→`a`, `j`→`c`, `t`→`e`, `y`→`s`. This fits perfectly.
+
+12. **"Pojsvzt" as "Project":** `P`→`p`, `o`→`r` (consistent with `o` earlier?), `j`→`o` (consistent with `j` earlier?), `s`→`j` (consistent with `s` earlier?), `v`→`e` (consistent with `v` earlier?), `z`→`c` (consistent with `z` earlier?), `t`→`t` (consistent with `t` earlier?).
+    *   Let's reconsider `P` from the `P`o`j`svzt. `P` is for `Project`. `p`→`p`.
+
+13. **"rtwtjey" as "rejects":** `r`→`r`, `t`→`e`, `w`→`j`, `t`→`e`, `j`→`c`, `e`→`t`, `y`→`s`. This fits perfectly. So `w` → `j`.
+
+14. **"yqbnst" as "sample":** `y`→`s`, `q`→`a`, `b`→`m`, `n`→`p`, `s`→`l`, `t`→`e`. This fits perfectly. So `y` → `s`.
+
+15. **"btyyqft" as "message":** `b`→`m`, `t`→`e`, `y`→`s`, `y`→`s`, `q`→`a`, `f`→`g`, `t`→`e`. This fits perfectly. So `f` → `g`.
+
+16. **"bpfke" as "might":** `b`→`m`, `p`→`i`, `f`→`g`, `k`→`h`, `e`→`t`. This fits perfectly.
+
+17. **"btoepxo" as "mention":** `b`→`m`, `t`→`e`, `o`→`n`, `e`→`t`, `p`→`i`, `x`→`o`, `o`→`n`. This fits perfectly.
+
+18. **"vytroqbt" as "username":** `v`→`u`, `y`→`s`, `t`→`e`, `r`→`r`, `o`→`n`, `q`→`a`, `b`→`m`, `t`→`e`. This fits perfectly.
+
+19. **"ottzy" as "needs":** `o`→`n`, `t`→`e`, `t`→`e`, `z`→`d`, `y`→`s`. This fits perfectly.
+
+20. **"CQ" as "IA":** The last remaining cipher letter to map is `C`. The sentence begins "CQ needs...", which grammatically suggests "IA needs...". Thus, `C` → `I`.
+
+**The Full Key:**
+
+| Cipher | Plain | Cipher | Plain |
+| :----- | :---- | :----- | :---- |
+| B      | M     | O      | N     |
+| C      | I     | P      | I     |
+| D      | Y     | Q      | A     |
+| E      | T     | R      | R     |
+| F      | G     | S      | L     |
+| G      | F     | T      | E     |
+| I      | W     | V      | U     |
+| J      | C     | W      | J     |
+| K      | H     | X      | O     |
+| N      | P     | Y      | S     |
+|        |       | Z      | D     |
+
+*(Note: Cipher letters A, H, L, M, U are not present in the given text, nor are plaintext letters b, k, q, v, x, z for their respective positions.)*
+
+---
+
+**Decrypted Message:**
+
+`IA needs a sample message a user would tend with their employees portal rejects a two-factor authentication (2FA) code. Project places where a user might mention their username and the 2FA code they attempted.`
+
+---
+
+**Translation:**
+
+The decrypted message is: "IA needs a sample message a user would tend with their employees portal rejects a two-factor authentication (2FA) code. Project places where a user might mention their username and the 2FA code they attempted."

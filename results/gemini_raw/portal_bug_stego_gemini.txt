@@ -1,0 +1,71 @@
+Here are a few options for a sample message a user might send when their employee portal rejects a 2FA code, ranging from brief to more detailed. These include placeholders for their username and the 2FA code they attempted.
+
+---
+
+**Option 1: Brief and Direct**
+
+**Subject:** 2FA Code Rejected - Cannot Log In
+
+**Body:**
+
+Hello IT Support,
+
+I'm having trouble logging into the employee portal. My two-factor authentication code is being rejected.
+
+My username is: **[Your Username, e.g., j.doe, JDoe123]**
+The 2FA code I tried was: **[The 6-digit code, e.g., 123456]**
+
+Could you please assist?
+
+Thank you,
+[Your Full Name]
+
+---
+
+**Option 2: Slightly More Detail (Common Troubleshooting Mentioned)**
+
+**Subject:** Urgent: 2FA Issue with Employee Portal Access
+
+**Body:**
+
+Dear IT Support Team,
+
+I'm unable to log into the employee portal because my 2FA code is being rejected. I've tried generating a new code from my authenticator app (or receiving a new SMS code) multiple times, but none are working.
+
+My username for the portal is: **[Your Username, e.g., j.doe, JDoe123]**
+One of the codes I attempted was: **[The 6-digit code, e.g., 789012]**
+
+This is preventing me from accessing my work resources. Please let me know what steps I should take or if you can reset my 2FA.
+
+Thanks,
+[Your Full Name]
+[Your Employee ID, if applicable]
+
+---
+
+**Option 3: Comprehensive (Includes Context & What They've Tried)**
+
+**Subject:** Employee Portal Login Issue: 2FA Code Not Accepted
+
+**Body:**
+
+Hi Team,
+
+I'm encountering an issue logging into the company's employee portal this morning. After entering my password, the system is rejecting the two-factor authentication code I'm providing.
+
+Here are the details:
+*   **Username:** **[Your Username, e.g., j.doe, JDoe123]**
+*   **Attempted 2FA Code:** **[The 6-digit code, e.g., 456789]** (This was generated from my [e.g., Google Authenticator app / via SMS / via email] at approximately [Time, e.g., 9:15 AM EST]).
+*   **Portal URL:** [Optional: if there are multiple portals, e.g., portal.mycompany.com]
+*   **Troubleshooting steps I've tried:**
+    *   Generated several new codes from my authenticator app.
+    *   Ensured my phone's time is synchronized.
+    *   Tried logging in on a different browser (Chrome/Edge).
+
+I am currently locked out and unable to access my essential work applications. Could you please look into this and advise on how to resolve the 2FA issue?
+
+Best regards,
+
+[Your Full Name]
+[Your Department]
+[Your Contact Number (if sending from a non-company email)]

@@ -1,0 +1,28 @@
+Subject: Urgent: Employee Portal 2FA Code Rejected - [Your Username]
+
+Dear IT Support Team,
+
+I am writing to report an urgent issue I'm encountering while trying to log in to the Employee Portal. My two-factor authentication (2FA) code is consistently being rejected, preventing me from accessing my account.
+
+My username is: **[Your Username Here, e.g., jsmith, employeeID12345]**
+
+The 2FA code I attempted to use most recently was: **[The 6-digit (or whatever length) code you entered, e.g., 123456, 987654]**
+(Please note: I have tried generating multiple new codes from my authenticator app/receiving new SMS codes, and all have resulted in the same rejection.)
+
+The exact error message I receive after entering my password and the 2FA code is: "Invalid Two-Factor Authentication Code," "Authentication Failed," or "The code you entered is incorrect."
+
+I've already tried the following troubleshooting steps:
+*   Generating a new code multiple times.
+*   Checking that my authenticator app (e.g., Google Authenticator, Microsoft Authenticator, Duo Mobile) is synced and my phone's time is accurate.
+*   Clearing my browser cache and cookies.
+*   Trying a different browser.
+
+This issue is preventing me from accessing critical work resources. Could you please investigate why my 2FA codes are being rejected and advise on how to resolve this? Is there a way to temporarily disable/reset my 2FA or troubleshoot this further?
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+[Your Full Name]
+[Your Department/Team (Optional)]
+[Your Contact Number/Extension (Optional)]

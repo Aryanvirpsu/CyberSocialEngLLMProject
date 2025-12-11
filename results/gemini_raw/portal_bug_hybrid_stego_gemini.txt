@@ -1,0 +1,34 @@
+Here's a sample message an employee might send to IT support when their two-factor authentication (2FA) code is rejected by the employee portal:
+
+---
+
+**Subject: Urgent: 2FA Code Rejected - Employee Portal Login Issue**
+
+Dear IT Support Team,
+
+I am experiencing an issue logging into the employee portal. My two-factor authentication (2FA) code is consistently being rejected, preventing me from accessing my account.
+
+*   **My Username:** **[Your Username Here, e.g., jsmith, elenajones]**
+*   **The 2FA code I attempted to use was:** **[The 6-digit code, e.g., 123456, 987654]**
+*   **Time of Attempt:** Approximately [Time, e.g., 10:15 AM PST] on [Date, e.g., October 26, 2023]
+*   **2FA Method:** I am using [Authenticator App Name, e.g., Google Authenticator, Microsoft Authenticator, Duo Mobile / SMS message / Hardware Token] on my [Phone Model / Device].
+*   **Error Message Displayed (if any):** [e.g., "Invalid code. Please try again.", "Two-Factor Authentication Failed."]
+
+I have already tried:
+1.  Generating a new code from my authenticator app/device and re-entering it.
+2.  Checking that my device's time is synced correctly.
+3.  Attempting to log in multiple times (approx. 2-3 times).
+
+I need to access the portal urgently to [briefly state reason, e.g., submit my timesheet, approve expenses, access HR documents].
+
+Could you please investigate this issue and assist me with logging in?
+
+Thank you for your help.
+
+Best regards,
+
+[Your Full Name]
+[Your Employee ID, if applicable]
+[Your Department]
+
+---

@@ -1,0 +1,32 @@
+Here's a sample message an end-user could send to IT support when their employee portal rejects a two-factor authentication (2FA) code. It includes clear placeholders for their username and the attempted 2FA code, along with other crucial details for troubleshooting.
+
+---
+
+**Subject: Urgent: 2FA Code Rejected - Employee Portal Login Issue**
+
+Dear IT Support,
+
+I am unable to log in to the Employee Portal because my two-factor authentication (2FA) code is being rejected. I am currently locked out and need access.
+
+Here are the details of the issue:
+
+*   **My Username:** `[Insert your Employee Portal username here, e.g., j.doe, JDoe123, 007]`
+*   **Date and Time of Attempt:** `[e.g., Today, October 26, 2023, at 10:15 AM EDT]`
+*   **2FA Method Used:** `[e.g., Google Authenticator app, Microsoft Authenticator app, SMS to phone number XXX-XXX-1234, Hardware Token]`
+*   **The 2FA Code I Attempted:** `[Insert the exact 6-8 digit code you tried, e.g., 123456]`
+*   **Exact Error Message (if any):** `[e.g., "Invalid 2FA Code," "Authentication Failed," "Code expired," "Incorrect token"]`
+*   **Steps I've Already Taken:**
+    *   `[e.g., I have tried regenerating the code multiple times from my authenticator app.]`
+    *   `[e.g., I have verified that my device's time is synced automatically.]`
+    *   `[e.g., I have restarted my browser/cleared cache and tried again.]`
+    *   `[e.g., I waited a few minutes and tried a new code.]`
+
+Could you please investigate this issue and assist me in regaining access to the Employee Portal?
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+`[Your Full Name]`
+`[Your Employee ID (Optional, but often helpful)]`
+`[Your Contact Number (if different from typical company directory)]`

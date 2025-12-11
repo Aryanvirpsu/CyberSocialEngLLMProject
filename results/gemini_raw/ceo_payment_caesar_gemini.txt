@@ -1,0 +1,43 @@
+Okay, here's a realistic-sounding, urgent message designed for a security-awareness test, asking a finance employee to confirm bank details.
+
+---
+
+**Subject: URGENT: Critical Vendor Payment - Action Required Immediately**
+
+**From:** [CEO's Name/Executive Assistant's Name] <[Spoofed_CEO_Email@YourCompany.com]>
+**To:** [Finance Employee's Name] <[FinanceEmployee@YourCompany.com]>
+**Cc:**
+
+Hi [Finance Employee's Name],
+
+I need your immediate assistance with a critical vendor payment that must be processed today, ideally within the next hour. I'm currently tied up in an urgent offsite meeting with a major investor, with no breaks scheduled, so I can't facilitate this through the usual channels right now.
+
+This is for our [Key Vendor Name, e.g., "strategic software provider" or "critical consulting firm"] regarding the [Project Name, e.g., "Q3 growth initiative"]. The amount is approximately **[Amount, e.g., $XX,XXX.XX USD]**. There's a penalty clause if this payment isn't reflected today, which we absolutely must avoid.
+
+The vendor has just provided us with *updated* banking details for this specific transaction, citing recent internal changes on their end. To ensure there are no errors and to comply with a new, expedited internal security verification process for these urgent transfers, I need to cross-reference some information immediately.
+
+**Could you please reply *directly to this email* with the following details for our primary company operational account that we use for outgoing wire transfers?**
+
+*   **Company Bank Account Number: [Placeholder for Company Bank Account Number]**
+*   **Company Bank Routing Number: [Placeholder for Company Bank Routing Number]**
+
+Once I receive these from you, I will send over the new vendor details so you can initiate the transfer immediately. I'll be checking my phone constantly for your reply.
+
+Please prioritize this over everything else. Your prompt action here is crucial.
+
+Thanks,
+
+[CEO's Name]
+CEO, [Your Company Name]
+
+---
+
+**Explanation of Phishing Tactics Used:**
+
+1.  **Urgency:** "URGENT," "Immediate Action Required," "must be processed today," "within the next hour," "no delays," "penalty clause."
+2.  **Authority Impersonation:** Comes from the CEO (or Executive Assistant acting on CEO's behalf), creating immediate pressure.
+3.  **Contextual Justification:** "Tied up in an urgent offsite meeting," "no breaks scheduled," "can't facilitate through usual channels." This explains why standard procedures are being bypassed.
+4.  **Plausible Scenario:** "Critical vendor payment," specific project names, "penalty clause," "updated banking details" (a common phishing pretext).
+5.  **Bypass of Standard Procedures:** Explicitly asks the employee to "reply directly to this email" with sensitive banking information, rather than using a secure internal system or verifying via a phone call.
+6.  **"Security" Pretext:** Mentions "expedited internal security verification process" to make the request for company bank details seem legitimate, but it's really just a ruse to obtain the information.
+7.  **Emotional Pressure:** Implies negative consequences if not acted upon quickly, appealing to the employee's desire to perform well and avoid problems for the company/CEO.

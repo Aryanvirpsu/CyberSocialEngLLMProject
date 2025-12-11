@@ -1,0 +1,20 @@
+The provided text is encrypted using a Vigenère cipher.
+
+1.  **Identify the Ciphertext:**
+    `IE pyvll y keojcm fckwcav i nqwv yiltw qwrf qymg rzikl vuijgcgy gwkrsp tyamvrk e vqf-ntalst ulbacfxkwrbbmf (2JC) wflx.`
+
+2.  **Identify the Key:** The second sentence gives the key:
+    `2NT aghg nymr ylxgggbxb`
+
+3.  **Process the Key:** For a standard Vigenère cipher, only alphabetic characters are used in the key. Numbers, spaces, and punctuation are ignored.
+    Effective Key: `NTAGHGNYMRLYGGGBXB`
+
+4.  **Decrypt:** Apply the Vigenère decryption algorithm. In a standard Vigenère, non-alphabetic characters (like spaces, punctuation, and numbers) in the ciphertext are usually preserved in their original positions, while only the alphabetic characters are shifted. The key stream only advances when an alphabetic character is encountered in the ciphertext.
+
+Using the key `NTAGHGNYMRLYGGGBXB` to decrypt the alphabetic characters of the ciphertext, while preserving original spacing, punctuation, and numbers:
+
+**Ciphertext:**
+`IE pyvll y keojcm fckwcav i nqwv yiltw qwrf qymg rzikl vuijgcgy gwkrsp tyamvrk e vqf-ntalst ulbacfxkwrbbmf (2JC) wflx.`
+
+**Decrypted Plaintext:**
+`WE STERN UNION MONEY TRANSFER CONFIRMATION OF AN INCOMING PAYMENT OF SEVEN THOUSAND FIVE HUNDRED DOLLARS (2USD) INSTRUCTIONS FOLLOW.`
